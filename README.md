@@ -185,6 +185,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [WalletList](https://walletlist.me) - Showcase your public cryptocurrency addresses.
 
 # Altfolio
+* [CoinTracker](https://www.cointracker.io) - Cryptocurrency asset tracker that automatically pulls all balances and transactions from exchanges and cryptocurrency wallets. No need to manually enter every transaction. Super easy to use.
 * [Blockfolio](https://www.blockfolio.com/) - Cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Nice widgets. Simple. Android/iOS.
 * [ACrypto](https://dworks.in/acrypto) - Track bitcoin and altcoins prices, custom alarms, detailed charts. Flexible, many settings, informative. Available for iOS & Android.
 * [Altpocket](http://www.altpocket.io) - The only tool you need for showcasing, tracking and sharing your cryptocurrency investments.
